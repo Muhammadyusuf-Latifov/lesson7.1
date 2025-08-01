@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.container{
+  max-width: 1280px;
+  width: 100%;
+}
+input{
+  background:#fff; 
+  margin-bottom: 8px;
+  padding: 10px 0;
+  text-indent: 12px;
+  border-radius: 4px;
+  /* box-shadow: 5px 5px 5px #ddd; */
+}
+input::placeholder{
+  color: #afaeae;
+}
